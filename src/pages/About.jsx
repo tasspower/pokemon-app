@@ -10,17 +10,17 @@ export default function About() {
       <hr className="border-slate-100 my-4" />
       
       <div className="space-y-4 text-left max-w-md mx-auto my-6 text-slate-700 font-medium">
-        <div className="flex justify-between"><span className="text-slate-400">ผู้พัฒนา:</span> <span>[ใส่ชื่อ-นามสกุล ของนายเลย bro!]</span></div>
-        <div className="flex justify-between"><span className="text-slate-400">รหัสนักศึกษา:</span> <span className="font-mono">[ใส่รหัสของนาย]</span></div>
-        <div className="flex justify-between"><span className="text-slate-400">รายวิชา:</span> <span>[ชื่อวิชาที่เรียน]</span></div>
-        <div className="flex justify-between"><span className="text-slate-400">หลักสูตร:</span> <span>[ชื่อสาขา/หลักสูตร]</span></div>
-        <div className="flex justify-between"><span className="text-slate-400">มหาวิทยาลัย:</span> <span>[ชื่อมหาลัย]</span></div>
+        <div className="flex justify-between"><span className="text-slate-400">ผู้พัฒนา:</span> <span>[นาย ณัฐพัชร ศิริวราพัฒน์]</span></div>
+        <div className="flex justify-between"><span className="text-slate-400">รหัสนักศึกษา:</span> <span className="font-mono">[ 673450035-6]</span></div>
+        <div className="flex justify-between"><span className="text-slate-400">รายวิชา:</span> <span>[69/IN403101 การพัฒนาโปรแกรมเว็บระบบหน้าบ้าน]</span></div>
+        <div className="flex justify-between"><span className="text-slate-400">หลักสูตร:</span> <span>[(วิทยาการคอมพิวเตอร์)]</span></div>
+        <div className="flex justify-between"><span className="text-slate-400">มหาวิทยาลัย:</span> <span>[มหาวิทยาลัยขอนแก่น]</span></div>
       </div>
 
       <hr className="border-slate-100 my-4" />
 
       <a 
-        href="https://github.com" // เดี๋ยวเราค่อยมาเปลี่ยนเป็นลิงก์จริงตอนอัปขึ้นกิตฮับครับ
+        href="https://github.com/tasspower/pokemon-app.git" // เดี๋ยวเราค่อยมาเปลี่ยนเป็นลิงก์จริงตอนอัปขึ้นกิตฮับครับ
         target="_blank" 
         rel="noreferrer"
         className="inline-flex items-center gap-2 mt-4 px-6 py-3 bg-slate-900 text-white font-bold rounded-2xl hover:bg-slate-800 transition shadow-lg shadow-slate-900/20"
